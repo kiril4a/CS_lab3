@@ -1,0 +1,2 @@
+force A 0 0ns, 0 35ns, 1 65ns, 1 100ns;
+force B 0 0ns, 1 35ns, 0 65ns, 1 100ns;
